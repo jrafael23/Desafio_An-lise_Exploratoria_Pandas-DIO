@@ -1,2 +1,2 @@
 # Desafio_An-lise_Exploratoria_Pandas-DIO
-Desafio_Análise_Exploratoria_Pandas
+Desafio voltado para a utilização das principais funções da biblioteca Pandas.
